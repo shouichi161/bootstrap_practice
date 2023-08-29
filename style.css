@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 100px;
+  background-color: #ff00ff;
+}
+
+.header > div {
+  height: 70px;
+  background-color: #fbb3ff;
+}
