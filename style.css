@@ -13,3 +13,18 @@
   height: 70px;
   background-color: #fbb3ff;
 }
+
+.sidebar {
+  height: 600px;
+  background-color: #d8ffb6;
+}
+
+.main {
+  height: 600px;
+  background-color: #00b522;
+}
+
+.box {
+  height: 180px;
+  background-color: #fff75a;
+}
