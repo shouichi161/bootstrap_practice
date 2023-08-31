@@ -24,7 +24,17 @@
   background-color: #00b522;
 }
 
-.box {
+.main-box {
   height: 180px;
   background-color: #fff75a;
+}
+
+.footer {
+  height: 120px;
+  background-color: #52a1ff;
+}
+
+.footer-box {
+  height: 30px;
+  background-color: #b6e7ff;
 }
